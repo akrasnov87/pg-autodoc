@@ -1,6 +1,6 @@
 ## Описание
 
-[![Сборка](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fakrasnov87%pg-autodoc%2Fraw%2Fmaster%2Fversion.json&query=%24.version&label=docker%20pull%20akrasnov87/pg-autodoc%3A)](https://hub.docker.com/repository/docker/akrasnov87/pg-autodoc/tags)
+[![Сборка](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fakrasnov87%pg-autodoc%2Fraw%2Fmain%2Fversion.json&query=%24.version&label=docker%20pull%20akrasnov87/pg-autodoc%3A)](https://hub.docker.com/repository/docker/akrasnov87/pg-autodoc/tags)
 
 Утилита для формирования описания СУБД PostgreSQL (основана на https://github.com/cbbrowne/autodoc).
 
