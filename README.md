@@ -13,7 +13,7 @@ docker run -it --env-file .env -v ./:/opt/autodoc autodoc
 ### Сборка
 
 <pre>
-docker build . -t akrasnov87/autodoc:1.0.0
+docker build . -t akrasnov87/pg-autodoc:1.0.0
 </pre>
 
 ### Переменные
